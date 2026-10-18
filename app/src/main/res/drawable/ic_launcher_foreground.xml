@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 家のシルエット -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 L78,50 L72,50 L72,76 L36,76 L36,50 L30,50 Z" />
+    <!-- 炎（継続の象徴） -->
+    <path
+        android:fillColor="#FF9600"
+        android:pathData="M54,48 C60,55 63,60 63,65 C63,70.5 59,74 54,74 C49,74 45,70.5 45,65 C45,61 47,58 50,55 C50,59 52,61 54,61 C54,57 52,53 54,48 Z" />
+</vector>
